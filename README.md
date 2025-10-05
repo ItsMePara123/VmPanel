@@ -1,20 +1,33 @@
 HVM Panel
 
-HVM Panel is a lightweight and easy-to-use web panel built with Python and Flask. It provides a simple interface for managing virtual machines and related services.
+HVM Panel is a lightweight and easy-to-use web panel built with Python and Flask. It provides a modern interface for managing virtual machines and system resources with real-time updates and secure access.
 
 🧠 Features
 
-Simple and fast Flask-based web interface
+⚡ Built with Flask for speed and simplicity
 
-Real-time updates via Socket.IO
+🔐 Integrated user authentication (Flask-Login)
 
-Docker and SSH (Paramiko) integration
+🐳 Docker and SSH management (Paramiko)
 
-User authentication (Flask-Login)
+📊 Real-time system monitoring (psutil + Socket.IO)
 
-System stats and resource tracking (psutil)
+🚦 Built-in rate limiting (flask-limiter)
 
-Rate limiting for security (flask-limiter)
+🧩 Easy to extend and modify
+
+📄 License
+
+This project is licensed under the HVM Panel License (Permissive — Liability Disclaimer).
+
+The author is not responsible for how users deploy, modify, or use this software.
+You are free to fork, modify, distribute, or use this code as you wish, entirely at your own risk.
+See the LICENSE
+ file for full details.
+
+💬 Support
+
+If you encounter any issues, bugs, or have suggestions, please open an Issue or Pull Request on this repository.
 
 ⚙️ Installation
 
@@ -28,13 +41,4 @@ cd VmPanel
 cd hvm
 pip3 install flask flask-socketio flask_login docker paramiko python-dotenv psutil flask-limiter
 pip install -r requirements.txt
-python3 hvm.py```bash
-
-🧾 License
-
-This project is licensed under the HVM Panel License (Permissive — Liability Disclaimer).
-
-The author is not responsible for how users deploy, modify, or use this software.
-You are free to fork, modify, distribute, or use this code as you wish, at your own risk.
-See the LICENSE
- file for full details.
+python3 hvm.py
