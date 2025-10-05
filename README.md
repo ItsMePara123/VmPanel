@@ -20,10 +20,8 @@ HVM Panel is a lightweight and easy-to-use web panel built with Python and Flask
 
 This project is licensed under the HVM Panel License (Permissive — Liability Disclaimer).
 
-The author is not responsible for how users deploy, modify, or use this software.
+Licensed under the HVM Panel Redistribution License (No Responsibility) — see LICENSE for full terms.
 You are free to fork, modify, distribute, or use this code as you wish, entirely at your own risk.
-See the LICENSE
- file for full details.
 
 💬 Support
 
