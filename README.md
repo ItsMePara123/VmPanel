@@ -28,7 +28,7 @@ cd VmPanel
 cd hvm
 pip3 install flask flask-socketio flask_login docker paramiko python-dotenv psutil flask-limiter
 pip install -r requirements.txt
-python3 hvm.py```
+python3 hvm.py```bash
 
 🧾 License
 
