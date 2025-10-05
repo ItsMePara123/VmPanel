@@ -1,49 +1,32 @@
-HVM PANEL LICENSE (Permissive — Liability Disclaimer)
+HVM PANEL REDISTRIBUTION LICENSE (NO RESPONSIBILITY)
 
-Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+This software, known as “HVM Panel,” was not originally created or authored by the person redistributing it.
+The redistributor does not claim ownership, authorship, or rights over the original code or its content.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository is provided solely for **educational and public use** purposes.
+It is believed to have been made publicly available or distributed by unknown third parties prior to this redistribution.
 
-1. Attribution
-   - The above copyright notice and this permission notice shall be included
-     in all copies or substantial portions of the Software, or in a NOTICE
-     file distributed with the Software.
+By accessing, using, modifying, forking, or redistributing this software, you agree to the following:
 
-2. No Warranty
-   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-     OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+1. **No Ownership or Authorship Claim**
+   - The redistributor of this repository does not claim to be the creator, owner, or official maintainer of the HVM Panel project.
 
-3. Limitation of Liability
-   - IN NO EVENT SHALL THE COPYRIGHT HOLDER(S), CONTRIBUTORS, OR MAINTAINERS
-     BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
-     ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+2. **Free and Public Use**
+   - Anyone may use, copy, modify, fork, and share this software for personal or educational use.
+   - No guarantees of support, updates, or maintenance are provided.
 
-4. No Responsibility for Third-Party Use
-   - The author(s) are not responsible for any actions, deployments, or
-     consequences resulting from the use of the Software by others,
-     including but not limited to operation, compliance with laws,
-     security incidents, data loss, service interruptions, or claims from
-     third parties.
+3. **No Warranty**
+   - The software is provided “AS IS,” without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or noninfringement.
 
-5. Optional (Patents)
-   - To the extent permitted by applicable law, no patent license is granted
-     by this license; contributors retain whatever patent rights they hold,
-     and no patent claims are waived.
+4. **No Responsibility**
+   - The redistributor and any contributors are **not responsible** for:
+     - Any misuse or illegal use of the software.
+     - Any damage, loss, or data breach caused by this software.
+     - Any consequences resulting from deployment, modification, or distribution by others.
 
-6. Governance / Trademark
-   - This license does not grant any right to use the name, trademarks, or
-     logos of the copyright holder(s).
+5. **Original Rights**
+   - All original rights, copyrights, and credits (if any) belong to their respective owners.
 
-7. Governing Law
-   - This license shall be governed by and construed in accordance with the
-     laws of [JURISDICTION], excluding its conflict of law rules (replace or
-     remove if you prefer no specific jurisdiction).
+6. **At Your Own Risk**
+   - Use this software at your own risk. By using it, you agree that the redistributor cannot be held liable for any issue arising from its use.
 
-By using, copying, modifying or distributing the Software, you accept and
-agree to be bound by the terms of this license.
